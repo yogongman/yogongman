@@ -1,3 +1,6 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlekgns6743)](https://solved.ac/dlekgns6743/)
+
+
 ### Hi there 👋
 
 <!--
