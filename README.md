@@ -1,5 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlekgns6743)](https://solved.ac/dlekgns6743/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogongman)](https://github.com/yogongman/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlekgns6743)](https://solved.ac/dlekgns6743/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogongman)](https://github.com/yogongman/github-readme-stats)
 
 
 
